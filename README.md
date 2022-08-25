@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jayrnoel/four-card-feature](https://github.com/jayrnoel/four-card-feature)
+- Live Site URL: [https://heroic-sawine-268d7a.netlify.app/](https://heroic-sawine-268d7a.netlify.app/)
 
 ## My process
 
